@@ -12,4 +12,4 @@ average=total/6
 
 print("Student Name:", name)
 print("Total:", total)
-print("Average:", average)
+print("Average:", average) 
