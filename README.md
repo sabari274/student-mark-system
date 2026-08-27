@@ -10,3 +10,6 @@ total=mark1+mark2+mark3+mark4+mark5+mark6
 
 average=total/6
 
+print("Student Name:", name)
+print("Total:", total)
+print("Average:", average)
